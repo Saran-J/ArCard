@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{896E54D2-E4FA-2817-86FE-38690EB064FE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/MyPrefabInstantiator.cs">
+    <Files>
+      <File FileName="Assets/Script/MyPrefabInstantiator.cs" Line="31" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
